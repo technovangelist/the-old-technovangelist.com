@@ -1,0 +1,28 @@
+body {
+    margin-bottom: 50px;
+}
+.date {
+  color: #666;
+}
+.blogListing {
+  padding-bottom: 10px;
+  .blogUrl {
+    text-decoration-color: #44a;
+  }
+  .blogExcerpt {
+    font-size: smaller;
+    color: #888;
+  }
+}
+.previousLink {
+  float: left;
+  span {
+    color: #888;
+  }
+}
+.nextLink {
+  float: right;
+  span {
+    color: #999;
+  }
+}
