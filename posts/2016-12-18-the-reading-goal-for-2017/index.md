@@ -19,302 +19,302 @@ date: "2016-12-18T18:35:06+00:00"
   So that is a goal for 2017. The goal is to write a little summary of what I read. This will force the memory to last a bit longer than it does today. And the corollary goal is to read the books that I have. Sure, the library will continue to tempt me with stories and facts but I have my own library that I have neglected for years. So I have created a list of books that I want to tackle for 2017. Some are books that are currently checked out from the library, others are books we own. Some came from me, others from my wife. Some I have read a few chapters of, others have sat unopened for decades. I intend to read them. All of them?? I don&#8217;t know. But I would like to review this list in a year and see how I did. So here is the list for the me of 12 months forth:
 </p>
 
-## Books that my wife and I have checked out right now that I am eager to read {.p1}
+## Books that my wife and I have checked out right now that I am eager to read
 
-<li class="p3">
+<li>
   The Making of the Atomic Bomb &#8211; Richard Rhodes
 </li>
-<li class="p3">
+<li>
   Titan: The Life of John D. Rockefeller, Sr. &#8211; Ron Chernow
 </li>
-<li class="p3">
+<li>
   Creative Schools: The Grassroots Revolution That’s Transforming Education &#8211; Ken Robinson
 </li>
-<li class="p3">
+<li>
   Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill &#8211; Candice Millard
 </li>
-<li class="p3">
+<li>
   Song of the Dodo: Island Biogeography in an Age of Extinctions &#8212; David Quammen
 </li>
-<li class="p3">
+<li>
   The Fish That Ate the Whale: The Life and Times of America&#8217;s Banana King &#8211; Rich Cohen
 </li>
-<li class="p3">
+<li>
   How Not to Be Wrong: The Power of Mathematical Thinking &#8211; Jordan Ellenberg
 </li>
-<li class="p3">
+<li>
   A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) &#8211; Barbara Oakley
 </li>
-<li class="p3">
+<li>
   The Lost Art of Finding Our Way &#8211; John Edward Huth
 </li>
-<li class="p3">
+<li>
   The Pigeon Tunnel: Stories from My Life &#8211; John Le Carre
 </li>
-<li class="p3">
+<li>
   Pirate &#8211; Clive Cussler
 </li>
-<li class="p3">
+<li>
   Superforcasting: The Art and Science of Prediction
 </li>
-<li class="p3">
+<li>
   Craft of Research &#8211; Wayne Booth
 </li>
-<li class="p3">
+<li>
   HBR on Innovation &#8211; HBR
 </li>
-<li class="p3">
+<li>
   The Last Kingdom &#8211; Bernard Cornwell
 </li>
 
-## Books we own and I want to reread {.p3}
+## Books we own and I want to reread 
 
-<li class="p3">
+<li>
   Accidental Genius: Using Writing to Generate Your Best Ideas, Insight, and Content &#8211; Mark Levy
 </li>
-<li class="p3">
+<li>
   The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography &#8211; Simon Singh
 </li>
-<li class="p3">
+<li>
   Deep Work: Rules for Focused Success in a Distracted World &#8211; Cal Newport
 </li>
-<li class="p3">
+<li>
   Smarter Faster Better: The Secrets of Being Productive in Life and Business &#8211; Charles Duhigg
 </li>
-<li class="p3">
+<li>
   # Books we own, I have tried to read, but never finished
 </li>
-<li class="p3">
+<li>
   Black Tulip &#8211; Alexandre Dumas
 </li>
-<li class="p3">
+<li>
   The Anatomy of Error: Ancient Military Disasters and Their Lessons for Modern Strategists &#8211; Barry Strauss
 </li>
-<li class="p3">
+<li>
   Arabian Sands: Revised Edition &#8211; Wilfred Thesiger
 </li>
-<li class="p3">
+<li>
   Long Way Down &#8211; Ewan McGregor and Charley Boorman
 </li>
-<li class="p3">
+<li>
   Enders Game &#8211; Orson Scott Card
 </li>
-<li class="p3">
+<li>
   Hyperion &#8211; Dan Simmons
 </li>
 
-## Books that we own but I never tried {.p3}
+## Books that we own but I never tried 
 
-<li class="p3">
+<li>
   Being Mortal: Medicine and What Matters in the End &#8211; Atul Gawande
 </li>
-<li class="p3">
+<li>
   The Book of Strange New Things: A Novel &#8211; Michel Faber
 </li>
-<li class="p3">
+<li>
   Golem and the Jinni &#8211; Helene Wecker
 </li>
-<li class="p3">
+<li>
   Gene: An Intimate History &#8211; Siddhartha Mukherjee
 </li>
-<li class="p3">
+<li>
   Emergence: The Connected Lives of Ants, Brains, Cities, and Software &#8211; Steven Johnson
 </li>
-<li class="p3">
+<li>
   Eden on the Charles: The Making of Boston &#8211; Michael Rawson
 </li>
-<li class="p3">
+<li>
   Moor&#8217;s Account &#8211; Laila Lalami
 </li>
-<li class="p3">
+<li>
   Power of Habit: Why We Do What We Do in Life and Business &#8212; Charles Duhigg
 </li>
-<li class="p3">
+<li>
   The Paying Guests &#8211; Sarah Waters
 </li>
-<li class="p3">
+<li>
   Papercuts Anthology: What Happened Here, Volume 1 &#8211; (our local bookstore)
 </li>
-<li class="p3">
+<li>
   Hidden Life of Trees: What They Feel, How They Communicate—Discoveries from a Secret World &#8211; Peter Wohlleben
 </li>
-<li class="p3">
+<li>
   Race Underground: Boston, New York, and the Incredible Rivalry That Built America&#8217;s First Subway &#8211; Doug Most
 </li>
-<li class="p3">
+<li>
   Power of One: A Novel &#8211; Bryce Courtenay
 </li>
-<li class="p3">
+<li>
   The Winter People &#8211; Jennifer McMahon
 </li>
-<li class="p3">
+<li>
   The Writers Portable Mentor &#8211; Priscilla Long
 </li>
-<li class="p3">
+<li>
   Wanderlust: A History of Walking &#8211; Rebecca Solnit
 </li>
-<li class="p3">
+<li>
   Innocent Abroad: Life-Changing Trips from 35 Great Writers (Anthology) &#8211; John Berendt, Dave Eggers et.al.
 </li>
-<li class="p3">
+<li>
   Oregon Trail: A New American Journey &#8211; Rinker Buck
 </li>
-<li class="p3">
+<li>
   Cryptonomicon &#8211; Neal Stephenson
 </li>
-<li class="p3">
+<li>
   The CS Detective &#8211; Jeremy Kubica
 </li>
 
 ## Books that came from me before marriage but I never read
 
-<li class="p3">
+<li>
   The Land That Time Forgot &#8211; Edgar Rice Burroughs
 </li>
-<li class="p3">
+<li>
   A Year in Provence &#8211; Peter Mayle
 </li>
-<li class="p3">
+<li>
   A Tramp Abroad &#8211; Mark Twain
 </li>
-<li class="p3">
+<li>
   Blue Latitudes: Boldly Going Where Captain Cook Has Gone Before &#8211; Tony Horwitz
 </li>
-<li class="p3">
+<li>
   The Back of the Napkin: Solving Problems and Selling Ideas with Pictures &#8211; Dan Roam
 </li>
-<li class="p3">
+<li>
   The Selfish Gene &#8211; Richard Dawkins
 </li>
-<li class="p3">
+<li>
   A Study of History, Vol. 1: Abridgement of Volumes I-VI &#8211; Arnold J. Toynbee
 </li>
-<li class="p3">
+<li>
   Snow Falling on Cedars: A Novel &#8211; David Guterson
 </li>
-<li class="p3">
+<li>
   Stuff: The Things The World Is Made Of &#8211; Ivan Amato
 </li>
-<li class="p3">
+<li>
   The Friar and the Cipher: Roger Bacon and the Unsolved Mystery of the Most Unusual Manuscript in the World &#8211; Lawrence Goldstone, Nancy Goldstone
 </li>
-<li class="p3">
+<li>
   Ever Since Darwin &#8211; Stephen Jay Gould
 </li>
-<li class="p3">
+<li>
   Lead the Field &#8211; Earl Nightingale
 </li>
-<li class="p3">
+<li>
   A Mathematician Reads the Newspaper &#8211; John Allen Paulos
 </li>
-<li class="p3">
+<li>
   Mediterranean Winter &#8211; Robert D Kaplan
 </li>
-<li class="p3">
+<li>
   Our Man in Havana: An Entertainment &#8211; Graham Greene
 </li>
-<li class="p3">
+<li>
   The Hotel on the Roof of the World: Five Years in Tibet &#8211; Alec Le Sueur
 </li>
-<li class="p3">
+<li>
   The Koran
 </li>
-<li class="p3">
+<li>
   Herodotus: The Histories
 </li>
-<li class="p3">
+<li>
   How the Irish Saved Civilization &#8211; Thomas Cahill
 </li>
-<li class="p3">
+<li>
   The Complete Sherlock Holmes, Volume I &#8211; Arthur Conan Doyle
 </li>
-<li class="p3">
+<li>
   Connections &#8211; James Burke
 </li>
-<li class="p3">
+<li>
   The Hedgehog, the Fox, and the Magister&#8217;s Pox: Mending the Gap Between Science and the Humanities &#8211; Stephen Jay Gould
 </li>
-<li class="p3">
+<li>
   Guns, Germs, and Steel : The Fates of Human Societies &#8211; Jared M. Diamond
 </li>
-<li class="p3">
+<li>
   Great Railway Bazaar: By Train Through Asia &#8211; Paul Theroux
 </li>
-<li class="p3">
+<li>
   Rendezvous with Rama &#8211; Isaac Asimov
 </li>
-<li class="p3">
+<li>
   The Razor&#8217;s Edge &#8211; W. Somerset Maugham
 </li>
-<li class="p3">
+<li>
   The Prince &#8211; Niccolo Machiavelli
 </li>
-<li class="p3">
+<li>
   The River War &#8211; Winston S. Churchill
 </li>
-<li class="p3">
+<li>
   Creative Habit: Learn It and Use It for Life &#8211; Twyla Tharp
 </li>
-<li class="p3">
+<li>
   God: A Biography &#8211; Jack Miles
 </li>
 
-## Books that came from Toni before marriage but I haven&#8217;t had a chance to read {.p3}
+## Books that came from Toni before marriage but I haven&#8217;t had a chance to read 
 
-<li class="p3">
+<li>
   Thinkertoys: A Handbook of Creative-Thinking Techniques (2nd Edition) &#8211; Michael Michalko
 </li>
-<li class="p3">
+<li>
   The Cement Garden &#8211; Ian McEwan
 </li>
-<li class="p3">
+<li>
   Blank Slate: The Modern Denial of Human Nature &#8211; Steven Pinker
 </li>
-<li class="p3">
+<li>
   The Big Picture: Reflections on Science, Humanity, and a Quickly Changing Planet &#8211; David Suzuki, David Taylor
 </li>
-<li class="p3">
+<li>
   A Short History of Modern Philosophy: From Descartes to Wittgenstein &#8211; Roger Scruton
 </li>
-<li class="p3">
+<li>
   Spook Country &#8211; William Gibson
 </li>
-<li class="p3">
+<li>
   Secret History &#8211; Donna Tartt
 </li>
-<li class="p3">
+<li>
   From Abacus to Zeus: A Handbook of Art History &#8211; James Smith Pierce
 </li>
-<li class="p3">
+<li>
   Geek Love: A Novel &#8211; Katherine Dunn
 </li>
-<li class="p3">
+<li>
   Flight Behavior: A Novel &#8211; Barbara Kingsolver
 </li>
-<li class="p3">
+<li>
   Made to Stick: Why Some Ideas Take Hold and Others Come Unstuck &#8211; Chip Heath
 </li>
-<li class="p3">
+<li>
   Mere Christianity &#8211; C. S. Lewis
 </li>
-<li class="p3">
+<li>
   Power of Myth &#8211; Joseph Campbell
 </li>
-<li class="p3">
+<li>
   Path of Least Resistance: Learning to Become the Creative Force in Your Own Life &#8211; Robert Fritz
 </li>
-<li class="p3">
+<li>
   House &#8211; Tracy Kidder
 </li>
-<li class="p3">
+<li>
   How the Mind Works &#8211; Steven Pinker
 </li>
-<li class="p3">
+<li>
   Propeller Island &#8211; Jules Verne
 </li>
 
-<p class="p3">
+<p>
   Whew, thats a lot of books. I think if I tackle half of these plus a few dozen others I find at the library as I go, I will be quite happy. If you would like to follow along with my progress, I started using Libib to track this stuff: <a href="https://technovangelist.libib.com/">https://technovangelist.libib.com/</a>
 </p>
 
-<p class="p3">
+<p>

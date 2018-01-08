@@ -65,6 +65,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 date(formatString: "MMMM DD, YYYY")
               }
               excerpt(pruneLength: 150)
+              html
               fields {
                 slug
               }
@@ -76,7 +77,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         edges: result.data.posts.edges,
         createPage: createPage,
         pageTemplate: "src/templates/index.js",
-        pageLength: 10
+        pageLength: 3
       });
       result.data.posts.edges.map(({ node }) => {
         createPage({

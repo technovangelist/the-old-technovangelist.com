@@ -5,9 +5,9 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@types/ramda": "^0.24.18",
-    "gatsby": "^1.9.73",
+    "gatsby": "^1.9.149",
     "gatsby-link": "^1.6.22",
-    "gatsby-paginate": "^1.0.4",
+    "gatsby-paginate": "^1.0.9",
     "gatsby-plugin-feed": "^1.3.11",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-sass": "^1.0.12",
@@ -17,7 +17,8 @@
     "gatsby-transformer-remark": "^1.7.18",
     "ramda": "^0.25.0",
     "typography": "^0.16.6",
-    "typography-theme-irving": "^0.15.10"
+    "typography-theme-irving": "^0.15.10",
+    "typography-theme-sutro": "^0.15.10"
   },
   "keywords": [
     "gatsby"
@@ -25,7 +26,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build && cp ./src/pages/CNAME public/",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
